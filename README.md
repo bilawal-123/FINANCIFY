@@ -10,7 +10,8 @@
 <br />
 <p align="center">
   <a href="https://github.com/Ishaan-10/Fintech-app">
-    <img src="client/src/images/favicon.png" alt="Logo" width="80" height="80">
+   ![image](https://github.com/bilawal-123/FINANCIFY/assets/16979740/876fb0d0-7c0a-47ba-a30b-bca173a4c1ca)
+
   </a>
 
   <h3 align="center">FINANCIFY</h3>
@@ -60,7 +61,8 @@
 <p>
     The idea is to help people view and study their overall spend analysis by developing a web app to analyze all the purchases. It is often noticed that we spend more than we     earn which is wrong. To address it and keep a record of all the spending and earnings, we have created Financify wherein users can keep a log of their finances and manage them wisely. 
 </p>
-<img src="client/src/images/landing.png" alt="Logo" width="100%" height="100%">
+![image](https://github.com/bilawal-123/FINANCIFY/assets/16979740/d8263ff1-5152-495f-b41d-5f2b29945940)
+
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 <!-- Problem Statement -->
@@ -111,7 +113,7 @@ This is how you can access this project locally.To get a local copy up and runni
     DATABASE_PASSWORD
     DATABASE_KEY
     ```
-    <img src="client/src/images/1.png" alt="db" height="50%" width="50%">
+    
 5. Start the server and react-script
    ```JS
    cd server
